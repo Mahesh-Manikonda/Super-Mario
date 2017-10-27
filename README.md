@@ -37,11 +37,6 @@ Developing from this Base
 This game was created in a fairly modular way. So adding/removing things is quite easy and the underlying game engine can be practically used as initial base for many 2D games. Proceed by reading `Javadoc` to understand classes and methods.
 
 Credits
-----------
-Jaskaranbir
+---------
+Mahesh Manikonda
 
-
-  [1]: https://github.com/Jaskaranbir/Super-Mario/tree/master/dist/SuperMario.jar
-  [2]: http://i.stack.imgur.com/ku96E.png
-  [3]: http://i.stack.imgur.com/9pcvb.png
-  [4]: http://i.stack.imgur.com/JnGzx.png
