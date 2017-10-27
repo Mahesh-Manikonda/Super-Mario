@@ -25,6 +25,9 @@ Game resolution can be changed from file `size_config.dat` (if file doesn't exis
 
 Screenshots
 -----------
+http://i.stack.imgur.com/ku96E.png
+http://i.stack.imgur.com/9pcvb.png
+http://i.stack.imgur.com/JnGzx.png
 
 [![Powerup][2]][2]
 
@@ -39,6 +42,4 @@ This game was created in a fairly modular way. So adding/removing things is quit
 Credits
 ---------
 Mahesh Manikonda
-http://i.stack.imgur.com/ku96E.png
-http://i.stack.imgur.com/9pcvb.png
-http://i.stack.imgur.com/JnGzx.png
+
