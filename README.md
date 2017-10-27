@@ -25,15 +25,16 @@ Game resolution can be changed from file `size_config.dat` (if file doesn't exis
 
 Screenshots
 -----------
-http://i.stack.imgur.com/ku96E.png
-http://i.stack.imgur.com/9pcvb.png
-http://i.stack.imgur.com/JnGzx.png
 
 [![Powerup][2]][2]
+http://i.stack.imgur.com/ku96E.png
 
 [![Saiyan Mode][3]][3]
+http://i.stack.imgur.com/9pcvb.png
 
 [![Ending Flag Pole Sequence][4]][4]
+
+http://i.stack.imgur.com/JnGzx.png
 
 Developing from this Base
 ------------------------
